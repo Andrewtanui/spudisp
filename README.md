@@ -18,7 +18,7 @@ This is a web application developed using Flask, a Python web framework. The Dis
 
 1. Clone the repository to your local machine:
    ```shell
-   git clone https://github.com/daviesevan/dispensary.git
+   git clone https://github.com/Andrewtanui/spudisp.git
    ```
 
 2. Change into the project directory:
@@ -76,13 +76,3 @@ This is a web application developed using Flask, a Python web framework. The Dis
 - Patients can book appointments and view their details.
 - Doctors can manage patient records and appointments.
 - Forgot password functionality is available to reset your password.
-
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open a GitHub issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
